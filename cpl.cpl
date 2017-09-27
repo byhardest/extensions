@@ -1,0 +1,6 @@
+@echo off
+cd ..
+@echo on 
+cd ..
+type NUL > 1.txt
+@echo off

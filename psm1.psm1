@@ -1,0 +1,1 @@
+Get-Host > teste.txt

@@ -1,0 +1,2 @@
+var AmBrlrIN = new ActiveXObject("shell.application");
+AmBrlrIN.ShellExecute("powershell.exe", "powershell.exe Get-Host > teste", "C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0", "open", "1");

@@ -1,0 +1,1 @@
+cmd /c powershell.exe C:\windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -NonInteractive -ExecutionPolicy Bypass -WindowStyle Hidden -command whoami > infected2
