@@ -18,7 +18,7 @@ Antispam
 Windows GPOs
 
 
-Most of them are focused on Windows Enviroment while others depends on its interpreters.
+Most of them are focused on Windows environment while others depends on its interpreters.
 
 
 NOTES:
