@@ -24,7 +24,7 @@ Most of them are focused on Windows environment while others depends on its inte
 NOTES:
 
 
-I don't own their copyrights. I didn't code anything. All of them were collected from the internet or in built-in operationals system. I found dificult to find a single source and download at once in order to test mimetype effectiveness and other access so now I have decided to publish and help others save time.
+I don't own their copyrights. I didn't code anything. All of them were collected from the internet or in built-in operational system. I found dificult to hunt up a single source and download at once in order to test mimetype effectiveness and other access so now I have decided to publish and help others save time.
 Some of the files may generate false posivites alerts when analyzed by antivirus or sandbox because I have invoked legit powershell commands (Get-Host).  E.g lnk,wsf. 
 
 I recommend to consider controls always based on file true type AND extensions, because (true filetype) mimetype (generally identified by their magic number) may fail with scripts and extensions control may fail with routines which renames file at two-stage fails.   
